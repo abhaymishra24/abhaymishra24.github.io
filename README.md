@@ -15,7 +15,7 @@ Link - (https://abhaymishra24.github.io/)
 - [JavaScript] 
 - [HTML] 
 
-## build one for yourself  🚀 
+## build one for yourself🚀 
 
 - [Fork this repository.]
 - [Clone the repository in your device.]
@@ -27,4 +27,4 @@ Link - (https://abhaymishra24.github.io/)
 
 ## Thankyou for visit on this repository 
 
-- Feel free to explore my other repositories and reach out to me for collaborations or discussions on new idea and projects.🤝😊🚀 
+Feel free to explore my other repositories and reach out to me for collaborations or discussions on new idea and projects.🤝😊🚀 
