@@ -1,7 +1,4 @@
 
-
-  
-
 # Welcome🙂, My personal portfolio 🧑‍💻
                              
 This is a personal portfolio website, where you can find all information about me, experience, work, projects, contact details, and resume. I would be grateful if you could visit my portfolio and explore my projects and work.
@@ -17,7 +14,6 @@ Link - (https://abhaymishra24.github.io/)
 - [SCSS] 
 - [JavaScript] 
 - [HTML] 
-
 
 ## build one for yourself  🚀 
 
