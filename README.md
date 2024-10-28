@@ -18,7 +18,7 @@ Link - (https://abhaymishra24.github.io/)
 ## build one for yourself🚀 
 
 - [Fork this repository.]
-- [Clone the repository in your device.]
+- [Clone the repository in your VS code.]
 - [Edit according your requirements, section page and headings.]
 - [Create a repository, upload your website files to the GitHub repository, go to the GitHub settings, and then navigate to the Pages section.]
 - [Under page section go to branch and click on right side button for main branch.]
